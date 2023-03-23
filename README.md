@@ -11,7 +11,7 @@
 <h2>Links</h2>
 <ul>
   <li>Solution URL: https://www.frontendmentor.io/solutions/results-summary-component-responsive-hover-transitions-n6zrdagvEb</li>
-  <li>Live Site URL: https://kmigel.github.io/Results-summary-component//</li>
+  <li>Live Site URL: https://kmigel.github.io/Results-summary-component/</li>
 </ul>
 
 <h2>Built With</h2>
